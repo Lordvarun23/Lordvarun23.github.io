@@ -2,16 +2,15 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='https://www.sdu.dk/en/forskning/sdu_applied_ai_and_data_science'>University Of Southern Denmark</a>
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Mærsk 2, Campusvej 55</p>
+    <p>Odense M, Denmark-5230</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,8 +26,12 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+# About Me
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Hi, I’m **Varun Sampath Kumar**, a first-year **PhD student** at the **Applied AI and Data Science Unit, The Maersk Mc-Kinney Møller Institute**, **University of Southern Denmark (SDU)**. I am fortunate to be supervised by [Dr. Vinay Chakravarthi Gogineni](https://vinaychakravarthi.github.io/) and [Dr. Esmaeil S. Nadimi](https://portal.findresearcher.sdu.dk/en/persons/esmaeil-nadimi/).
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I completed my **Integrated M.Sc. (B.Sc. + M.Sc.) in Data Science** at **PSG College of Technology** (an autonomous institution under Anna University) in **June 2025**. During my undergraduate studies, I interned at **KLA** for 15 months, where I worked on **self-supervised learning for wafer defect classification** and contributed to **data engineering pipelines** involving **Apache Iceberg, DuckDB, and PySpark**. I also had the opportunity to collaborate with Dr. Poonthalir G on **Federated Learning.**.
+
+My current research focuses on developing **novel machine unlearning algorithms** for both **vision (discriminative and generative) models** and **large language models (LLMs)**. In particular, I aim to design **computationally efficient and retain data-free unlearning paradigms** that can handle real-world complexities and scalability challenges.
+
+Beyond unlearning, I am deeply interested in the **memorization and generalization theory of deep neural networks**, **model compression**, and **mechanistic interpretability**. My long-term goal is to contribute to building frameworks that enable AI systems to **comply with emerging AI regulations** while maintaining a balance between **efficiency and efficacy**.
