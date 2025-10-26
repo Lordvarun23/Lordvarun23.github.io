@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2025-08-01 0:00:00-0400
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Started PhD in Responsible AI at University Of Southern Denmark, Odense, under the guidance of Dr. Vinay Chakravarthi Gogineni and Dr. Esmaeil S. Nadimi :sparkles: :smile:
